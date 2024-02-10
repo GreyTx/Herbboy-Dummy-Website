@@ -65,15 +65,15 @@ body {
 }
 
 .first-slide {
-  background-image: url(imgs/welcome_0.jpg);
+  background-image: url(imgs/cooper.jpg);
 }
 
 .second-slide {
-  background-image: url(imgs/welcome_1.jpg);
+  background-image: url(imgs/Cooper_2.jpg);
 }
 
 .third-slide {
-  background-image: url(imgs/welcome_2.jpg);
+  background-image: url(imgs/Cooper_3.jpg);
 }
 
 .map-slide {
